@@ -1,0 +1,4 @@
+.xhs-cache/
+*.cookie
+.env
+__pycache__/
